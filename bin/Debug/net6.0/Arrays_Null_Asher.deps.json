@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arrays_Null_Asher/1.0.0": {
+        "runtime": {
+          "Arrays_Null_Asher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays_Null_Asher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
